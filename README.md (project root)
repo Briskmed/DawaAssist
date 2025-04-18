@@ -1,0 +1,9 @@
+# DawaAssist
+
+**Dawa** = medicine (Swahili) + **Assist** = clinician support
+
+## Quickstart
+
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
