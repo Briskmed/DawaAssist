@@ -134,3 +134,64 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+
+
+
+
+
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# Virtual environment
+venv/
+.env/
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Database
+*.sqlite3
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# VSCode / Editor folders
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Uvicorn / gunicorn debug
+*.pid
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Local development
+*.db
+instance/
+
+# Misc
+*.bak
